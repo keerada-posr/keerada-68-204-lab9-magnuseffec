@@ -272,7 +272,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd421c3be6b5c0b4c974d52cf069a773, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AngularVelocity
-  angularSpeed: 6
+  angularSpeed: 5
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
